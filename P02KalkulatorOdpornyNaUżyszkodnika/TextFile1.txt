@@ -1,0 +1,8 @@
+﻿Zadanie
+
+Program prosi użytkownika o dwie liczby rodzielone znakiem '/'
+
+Zwraca wynik dzielenia tych dwóch liczb
+
+jest odporny na złośliwe działania użytkownika
+

@@ -1,0 +1,6 @@
+﻿Zadanie:
+
+wczytaj 5 imion z kosoli i wpisz je do tablicy
+
+posortuj je alfabetycznie i wypisz tablicę na konsolę
+

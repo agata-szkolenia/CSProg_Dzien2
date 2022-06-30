@@ -1,0 +1,15 @@
+﻿Zadanie 1
+
+Wczytaj z konsoli dowolnie dużo liczb.
+Policz ile z nich jest parzystych.
+
+Zadanie 2
+
+Wczytaj z konsoli dowolnie dużo liczb.
+Sprawdź czy suma liczb podzielnych przez 5 jest większa niż suma liczb podzielnych przez 3.
+
+Zadanie 3
+Ile czasu procesora (wykonanych operacji) i pamięci (zapamiętanych danych) 
+wykorzystuje Twoje rozwiązanie? 
+względem liczby danych wejściowych
+czyli jeśli wczytam 10 liczb to czy 10 czy 10^2 czy 2^10 czasu/miejsca potrzeba?

@@ -1,0 +1,6 @@
+﻿Zadanie 
+
+Poproś użytkownika o kod waluty
+Pobierz z internetu aktualny kurs wybranej waluty
+
+hint: http://api.nbp.pl/
